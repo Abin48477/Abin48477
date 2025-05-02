@@ -35,22 +35,6 @@ Let’s turn thoughts into tools and code into value.
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![Abin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghimireabin56&show_icons=true&theme=radical&count_private=true&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghimireabin56&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimireabin56&layout=compact&theme=radical&hide_border=false)
-
----
-
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ghimireabin56&theme=radical&no-frame=true&margin-w=10&column=7)
-
----
-
-### 🔝 Top Contributed Repos:
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ghimireabin56&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 
 ### 💡 Fun Facts:
