@@ -42,3 +42,9 @@ Let’s turn thoughts into tools and code into value.
 - ✍️ I write code like a poet – rhythm in logic, patience in chaos.
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abin48477&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>        
+![](https://nirzak-streak-stats.vercel.app/?user=Abin48477&theme=holi&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin48477&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
