@@ -43,8 +43,10 @@ Let’s turn thoughts into tools and code into value.
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abin48477&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>        
-![](https://nirzak-streak-stats.vercel.app/?user=Abin48477&theme=holi&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin48477&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abin48477&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin48477&theme=dark)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abin48477&theme=dark&hide_border=false)
 
 ---
