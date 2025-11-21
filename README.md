@@ -17,6 +17,11 @@ Let’s turn thoughts into tools and code into value.
 ✍️ I write code like a poet – rhythm in logic, patience in chaos.
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=abin48477&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Commit Activity](htt![Coding Time](https://img.shields.io/badge/⌛%20Coding%20Hours-Long%20Way%20To%20Go-blue?style=for-the-badge)
+![Fast Learner](https://img.shields.io/badge/🚀%20Fast%20Learner-Consistent%20Growth-blueviolet?style=for-the-badge)
+ps://img.shields.io/badge/🏅%20Commit%20Master-Active-brightgreen?style=for-the-badge)
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghimireabin56@gmail.com)
