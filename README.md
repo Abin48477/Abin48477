@@ -45,7 +45,7 @@ Let’s turn thoughts into tools and code into value.
 # 📊 GitHub Stats:
 ![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abin48477&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin48477&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin48477&theme=dark&layout=compact&langs_count=8)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abin48477&theme=dark&hide_border=false)
 
