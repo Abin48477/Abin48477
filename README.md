@@ -1,4 +1,4 @@
-here this is not working dont provide me like this i copy and past there like that# 💫 About Me:
+💫 About Me:
 🌟 Hi, I’m Abin — a student with a love for technology and creativity.  
 I don't just code. I create with logic, design with purpose, and learn with discipline.
 
