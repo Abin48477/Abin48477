@@ -46,11 +46,15 @@ Let’s turn thoughts into tools and code into value.
 - ✍️ I write code like a poet – rhythm in logic, patience in chaos.
 
 ---
-# 📊 GitHub Stats:
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abin48477&show_icons=true&theme=dark)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin48477&theme=dark&layout=compact&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abin48477&show_icons=true&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abin48477&layout=compact&theme=dark&hide_border=true" height="180"/>
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abin48477&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abin48477&theme=dark&hide_border=true" />
+</p>
 
 ---
