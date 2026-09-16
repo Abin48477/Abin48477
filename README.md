@@ -48,13 +48,16 @@ Let’s turn thoughts into tools and code into value.
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abin48477&show_icons=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abin48477&layout=compact&theme=dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abin48477&theme=dark&hide_border=true" />
-</p>
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=abin48477&show_icons=true&theme=dark&hide_border=true" width="100%">
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abin48477&layout=compact&theme=dark&hide_border=true&langs_count=8" width="100%">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=abin48477&theme=dark&hide_border=true" width="100%">
+    </td>
+  </tr>
+</table>
