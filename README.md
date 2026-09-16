@@ -37,14 +37,6 @@ Let’s turn thoughts into tools and code into value.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
----
----
-
-### 💡 Fun Facts:
-- 📖 I enjoy reading the **Bhagavad Gita** — it keeps me grounded and inspired in life and learning.
-- ✍️ I write code like a poet – rhythm in logic, patience in chaos.
-
 ---
 ## 📊 GitHub Stats
 
